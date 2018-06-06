@@ -22,9 +22,9 @@ public class ListaDuplamenteEncadeada<E> implements Iterable<E> {
      */
     public boolean isVazia() {
         if(this.inicio == null && this.fim == null) {
-        	return false;
+        	return true;
         }
-        return true;
+        return false;
     }
 
     /**
