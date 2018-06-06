@@ -15,18 +15,18 @@ public class Pratica {
         Pratica pratica = new Pratica();
         
         // para executar o teste, passe true como valor do argumento
-        pratica.testeVazia(false);
-        pratica.testeIterador(false);
-        pratica.testeBusca(false);
-        pratica.testeInsercaoFim(false);
-        pratica.testeInsercaoInicio(false);
-        pratica.testeInsercaoOrdenadaComparavel(false);
-        pratica.testeInsercaoOrdenadaComparador(false);
-        pratica.testeRemocaoInicio(false);
-        pratica.testeRemocaoFim(false);
-        pratica.testeRemocaoValor(false);
-        pratica.testeOrdenacaoComparavel(false);
-        pratica.testeOrdenacaoComparador(false);
+        pratica.testeVazia(true);
+        pratica.testeIterador(true);
+        pratica.testeBusca(true);
+        pratica.testeInsercaoFim(true);
+        pratica.testeInsercaoInicio(true);
+        pratica.testeInsercaoOrdenadaComparavel(true);
+        pratica.testeInsercaoOrdenadaComparador(true);
+        pratica.testeRemocaoInicio(true);
+        pratica.testeRemocaoFim(true);
+        pratica.testeRemocaoValor(true);
+        pratica.testeOrdenacaoComparavel(true);
+        pratica.testeOrdenacaoComparador(true);
     }
     
     
